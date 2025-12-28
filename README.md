@@ -57,6 +57,6 @@ We designed an **Asynchronous Trigger-and-Hold** logic to handle the "Blind Zone
 Developed by a team of students from **Shanghai Jiao Tong University (SJTU)**:
 
 * **Wang Yanzhe (Project Lead & AI Developer)**
-* Xiong Jinyi, Li Zeyu, Pan Jingyuan, Dong Yunhe.
+* Xiong Jinyi(AI Developer), Li Zeyu(3D-Model Designer), Pan Jingyuan(Electronic Control), Dong Yunhe(Report and PPT Making).
 
 Special thanks to **SJTU teachers:Yang Li and Wang Zechen** for providing instructions, testing environment and equipment.

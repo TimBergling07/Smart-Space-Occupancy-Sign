@@ -1,9 +1,3 @@
-Got it! A professional, high-quality README in English will make your GitHub repository look like a top-tier engineering project.
-
-I've structured this based on your **v3 Report**, highlighting the **Multi-modal Fusion**, your **AI audio processing (RMS/Burst)**, and the **30-minute state machine**.
-
----
-
 # **Smart Space Occupancy Sign**
 
 ### **An Intelligent Multi-modal Sensing System for Real-time Space Management**

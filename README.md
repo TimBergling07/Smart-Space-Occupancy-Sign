@@ -36,9 +36,7 @@ We designed an **Asynchronous Trigger-and-Hold** logic to handle the "Blind Zone
 ```text
 ├── ESP32-Audio-AI/          # Source code for AI inference & sound processing
 ├── Arduino-Uno-Radar/       # Radar signal processing & LED control logic
-├── Model-Training/          # Python scripts for feature extraction & RF training
-├── Hardware-CAD/            # 3D modeling files (.STL & .STEP) for the enclosure
-└── Docs/                    # Project reports and circuit diagrams
+└── Hardware/            # 3D modeling files (.STL & .STEP) for the enclosure
 
 ```
 
